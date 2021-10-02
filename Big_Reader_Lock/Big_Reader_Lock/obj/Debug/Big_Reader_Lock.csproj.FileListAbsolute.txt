@@ -1,0 +1,7 @@
+C:\Users\aniaz\OneDrive\Dokumenty\studia\semestr 4\programowanie wielowątkowe\Big_Reader_Lock\Big_Reader_Lock\bin\Debug\Big_Reader_Lock.exe.config
+C:\Users\aniaz\OneDrive\Dokumenty\studia\semestr 4\programowanie wielowątkowe\Big_Reader_Lock\Big_Reader_Lock\bin\Debug\Big_Reader_Lock.exe
+C:\Users\aniaz\OneDrive\Dokumenty\studia\semestr 4\programowanie wielowątkowe\Big_Reader_Lock\Big_Reader_Lock\bin\Debug\Big_Reader_Lock.pdb
+C:\Users\aniaz\OneDrive\Dokumenty\studia\semestr 4\programowanie wielowątkowe\Big_Reader_Lock\Big_Reader_Lock\obj\Debug\Big_Reader_Lock.csproj.AssemblyReference.cache
+C:\Users\aniaz\OneDrive\Dokumenty\studia\semestr 4\programowanie wielowątkowe\Big_Reader_Lock\Big_Reader_Lock\obj\Debug\Big_Reader_Lock.csproj.CoreCompileInputs.cache
+C:\Users\aniaz\OneDrive\Dokumenty\studia\semestr 4\programowanie wielowątkowe\Big_Reader_Lock\Big_Reader_Lock\obj\Debug\Big_Reader_Lock.exe
+C:\Users\aniaz\OneDrive\Dokumenty\studia\semestr 4\programowanie wielowątkowe\Big_Reader_Lock\Big_Reader_Lock\obj\Debug\Big_Reader_Lock.pdb
